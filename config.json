@@ -9,15 +9,15 @@ use_secret = false
 
 [account]
 #用户信息，一般是电话号码，用,隔开
-user=
+user=18570281412
 
 #密码信息，用,隔开
-passwd=
+passwd=KID1412108
 
 #设备信息，用,隔开
-deviceid=
-default_deviceid=
+deviceid=ffffffff-b38c-8f3c-0000-00000033c587
+default_deviceid=ffffffff-b38c-8f3c-0000-00000033c587
 
 
 #server酱的推送，暂时只有一个
-sckey=
+sckey=SCU107225T08cd52800e134b202a5932fcb55cf9285f1d797e252a3
